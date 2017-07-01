@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   
   
   
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/blog-history" # the subpath of your site, e.g. /blog
 url: "https://juniorcesarabreu.tk" # the base hostname & protocol for your site
 
 #sidebar
@@ -44,7 +44,7 @@ twitter: http://twitter.com/@juniorcesarsg
 github: http://github.com/juniorcesarabreu
 
 #facebook like box
-#fb-app-id: 549480635219583
+#fb-app-id: 0000000000
 fb-page-url: https://www.facebook.com/juniorcesarabreu.sg/
 fb-page-title: juniorcesarabreu
 
