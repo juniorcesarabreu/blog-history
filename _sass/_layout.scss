@@ -51,7 +51,7 @@ img {
 }
 
 .panel {
-    
+
    border-radius: 0;
    border: 1px solid #eee;
    transition: all 0.3s ease;
@@ -64,6 +64,12 @@ img {
 
 footer {
     border-top: 1px solid $grey-color-light;
+}
+footer .mt25 {
+    opacity: 0.3;
+}
+footer .mt25:last-child {
+    opacity: 1;
 }
 
 .social {
