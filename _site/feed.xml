@@ -6,9 +6,63 @@
 </description>
     <link>http://localhost:4000/blog-history/</link>
     <atom:link href="http://localhost:4000/blog-history/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Jul 2017 12:05:46 -0300</pubDate>
-    <lastBuildDate>Sun, 02 Jul 2017 12:05:46 -0300</lastBuildDate>
+    <pubDate>Sun, 02 Jul 2017 19:27:15 -0300</pubDate>
+    <lastBuildDate>Sun, 02 Jul 2017 19:27:15 -0300</lastBuildDate>
     <generator>Jekyll v3.5.0</generator>
+    
+      <item>
+        <title>Documentation</title>
+        <description>&lt;h1 id=&quot;installation&quot;&gt;Installation:&lt;/h1&gt;
+&lt;p&gt;Fork the &lt;code class=&quot;highlighter-rouge&quot;&gt;master&lt;/code&gt; branch and delete &lt;code class=&quot;highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt; branch in it. This is important because &lt;code class=&quot;highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt; branch is used here only to host the blog. You should be using the master branch as the source and create a fresh &lt;code class=&quot;highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt; branch.&lt;/p&gt;
+
+&lt;p&gt;Watch my video on instlallation&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/T2nx6tj-ZH4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;how-to-delete-old-gh-pages-branch&quot;&gt;How to delete old &lt;strong&gt;gh-pages&lt;/strong&gt; branch?&lt;/h2&gt;
+&lt;p&gt;After forking the repository, click on &lt;strong&gt;branches&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog-history/images/delete-github-branch.png&quot; alt=&quot;delete gh-pages branch&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Delete &lt;code class=&quot;highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt; branch.
+&lt;img src=&quot;/blog-history/images/delete-github-branch-2.png&quot; alt=&quot;delete gh-pages branch&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You have to create a new &lt;code class=&quot;highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt; branch using the master branch. Go back to the forked repository and create &lt;code class=&quot;highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt; branch.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog-history/images/create-gh-pages-branch.JPG&quot; alt=&quot;create gh-pages branch&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, go to settings and check the &lt;strong&gt;Github Pages&lt;/strong&gt; section. You should see a URL where the blog is hosted.&lt;/p&gt;
+
+&lt;p&gt;This process will host the theme as a &lt;strong&gt;Project Page&lt;/strong&gt;. You can also download the files for local development.&lt;/p&gt;
+
+&lt;p&gt;Default theme will look like this&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog-history/images/webjeda-cards-jekyll-theme-1.png&quot; alt=&quot;webjeda cards jekyll theme&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This theme is responsive.&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/blog-history/images/webjeda-cards-responsive-jekyll-theme-2.png&quot; alt=&quot;webjeda cards responsive jekyll theme&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;development&quot;&gt;Development&lt;/h1&gt;
+&lt;p&gt;Make changes to the &lt;strong&gt;master&lt;/strong&gt; branch and create a pull request. Do not use &lt;strong&gt;gh-pages&lt;/strong&gt; branch as it is used to host the theme.&lt;/p&gt;
+
+&lt;h1 id=&quot;license&quot;&gt;License&lt;/h1&gt;
+&lt;p&gt;MIT License&lt;/p&gt;
+
+&lt;h1 id=&quot;changelog&quot;&gt;Changelog&lt;/h1&gt;
+&lt;pre&gt;
+version 1.0 - SEO, disqus, page-speed enhancement, compressed html.
+
+version 0.9 - Sidebar default image and other minor improvements.  
+  
+version 0.8 - Bootstrap based cards layout theme.
+&lt;/pre&gt;
+</description>
+        <pubDate>Sat, 07 May 2016 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/blog-history/documentation/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog-history/documentation/</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>
